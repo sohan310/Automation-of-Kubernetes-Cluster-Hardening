@@ -26,3 +26,5 @@ Centos 7
 
 Now that we have configure our machine for master and worker, we are going to install kubernetes in both master and worker.
 first we install in master node then after that we will follow the same procedure in worker node.
+
+After installing Centos 7 check the network connectivity of both master and worker.
